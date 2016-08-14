@@ -36,8 +36,6 @@ def start():
 def stop():
         enable_motor.start(0)
         enable_motor.stop()
-'''
+
 start()
-'''
-stop()
 
